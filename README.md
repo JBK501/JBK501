@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Projects파일에 SubTree를 이용해서 프로젝트들 추가\n
+Projects파일에 SubTree를 이용해서 프로젝트들 추가, 
 Potofolio파일의 링크와 연결
 <!--
 **JBK501/JBK501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
